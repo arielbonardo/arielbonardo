@@ -16,9 +16,9 @@
 - Monitor: PRTG, Prometheus + Grafana
 
 
-- 🌱Interest
+🌱Interest
 -  I’m currently learning:
--  AWS: AM, VPC, IGW, ELB, AutoScaling, EC2, S3, RDS/DynamoDB, SNS, CloudWatch, R53, NAT Gatway, Light Sail
+-  AWS (IAM, VPC, IGW, ELB, AutoScaling, EC2, S3, RDS/DynamoDB, SNS, CloudWatch, R53, NAT Gatway, Light Sail,...)
 -  Kubernet
 
 
