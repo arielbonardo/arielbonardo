@@ -1,7 +1,29 @@
-- 👋 Hi, I’m @arielbonardo
-- 👀 I’m interested in technologies (On Premises and Cloud)
-- 🌱 I’m currently learning Docker, Kubernetes, AWZ, Azure.
-- 📫 How to reach me ariel.bonardo@gmail.com
+👋 Hi! 
+  My name's Ariel. I'm from Argentina, and I'm a Sysadmin. 
+  - I currently work as a Sysadmin in the ADDOC (addoc.com.ar) company.
+  - I offer hours of consulting.
+
+
+👀 Skill
+- Win and Lnx administrator
+- Virtualized environment administrator (+40 VM's)
+- Backups administror (Veeam)
+
+
+🧰Tool's
+- Git: Github, Gitlab
+- Docker: Composer, Swarm
+- Monitor: PRTG, Prometheus + Grafana
+
+
+- 🌱Interest
+-  I’m currently learning:
+-  AWS: AM, VPC, IGW, ELB, AutoScaling, EC2, S3, RDS/DynamoDB, SNS, CloudWatch, R53, NAT Gatway, Light Sail
+-  Kubernet
+
+
+📫 Contact 
+How to reach me ariel.bonardo@gmail.com
 
 <!---
 arielbonardo/arielbonardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
