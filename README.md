@@ -1,6 +1,6 @@
 👋 Hi! 
   My name's Ariel. I'm from Argentina, and I'm a Sysadmin. 
-  - I currently work as a Sysadmin in the ADDOC (addoc.com.ar) company.
+  - I currently work as a Sysadmin.
   - I offer hours of consulting.
 
 
