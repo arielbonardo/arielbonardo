@@ -12,7 +12,7 @@
 
 🧰Tool's
 - Git: Github, Gitlab
-- Docker: Composer, Swarm
+- Docker:
 - Monitor: PRTG, Prometheus + Grafana
 
 
